@@ -1,0 +1,9 @@
+# nodeJS
+node_modules/
+package-lock.json
+
+# dotenv
+.env
+
+# GCP-credentials
+headset-266413-ef5d69692d86.json
